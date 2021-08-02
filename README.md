@@ -1,2 +1,3 @@
 # hello-world
-Hello ! 
+Hi Guys! 
+I am learning how to code. 
